@@ -4,7 +4,7 @@
 
 ### Авторский коллектив
 
-Автор: Антон Жбанков ([AntonVirtual](https://habr.com/ru/users/antonvirtual/), [cloudarchitect.cc](cloudarchitect.cc))
+Автор: Антон Жбанков ([AntonVirtual](https://habr.com/ru/users/antonvirtual/), [cloudarchitect.cc](https://cloudarchitect.cc))
 Со-авторы: [Григорий Прялухин](https://twitter.com/gpryalukhin), Евгений Парфенов
 
 ### Общие понятия виртуализации
