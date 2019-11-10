@@ -1,8 +1,8 @@
-Введение
+#Введение
 
 Авторский коллектив
 
-Автор: Антон Жбанков (AntonVirtual, cloudarchitect.cc)
+Автор: Антон Жбанков ([AntonVirtual](https://habr.com/ru/users/antonvirtual/), [cloudarchitect.cc](cloudarchitect.cc))
 Со-авторы: Григорий Прялухин, Евгений Парфенов
 
 Общие понятия виртуализации
